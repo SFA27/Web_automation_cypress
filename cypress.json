@@ -1,0 +1,13 @@
+{
+  "projectId": "pdpej5",
+  "reporter": "mochawesome",
+  "env":
+  {
+    "url":                      "https://qa-task.backbasecloud.com",
+    "usernameAuthentication":   "candidatex",
+    "passwordAuthentication":   "qa-is-cool",
+    "username":                 "zk23270",
+    "email":                    "zk@email.com",
+    "password":                 "123456"
+  }
+}
